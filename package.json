@@ -1,0 +1,13 @@
+{
+  "name": "teste-foxbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node index.js"
+  },
+  "author": "naruto",
+  "license": "ISC"
+}
